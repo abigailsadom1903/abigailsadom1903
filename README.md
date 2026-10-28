@@ -13,8 +13,8 @@
 ![Open to Internships](https://img.shields.io/badge/Open%20to-Internships%202027-ff85c0?style=for-the-badge&logo=handshake&logoColor=white)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR-PORTFOLIO-URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-c471ed?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-f78fb3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-c471ed?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abigail-s-4a44a1157)
+[![Email](https://img.shields.io/badge/Email-f78fb3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abigailsadom1903@gmail.com)
 
 </div>
 
