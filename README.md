@@ -23,6 +23,19 @@ I'm a Software Engineering student at Universiti Malaysia Sabah (UMS), Faculty o
  
   ---
 
+  ## GitHub Activity
+
+  <div align="center">
+   
+   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abigailsadom1903&show_icons=true&theme=default&hide_border=true&title_color=0366d6&icon_color=0366d6&text_color=333333)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abigailsadom1903&layout=compact&theme=default&hide_border=true&title_color=0366d6&text_color=333333)
+
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abigailsadom1903&theme=default&hide_border=true&ring=0366d6&fire=0366d6&currStreakLabel=0366d6)
+
+  </div>
+  
+  ---
+
   ## Skills
 
   | Area | Technologies |
