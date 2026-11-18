@@ -3,6 +3,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abigail%20Sadom&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Web%20Developer%20%7C%20QA%20Enthusiast&descSize=16&descAlignY=60" alt="header" />
 
+![Typing animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=0366D6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I+am+Abigail+%F0%9F%91%8B;Software+Engineering+%40+UMS;I+build+and+test+web+apps;Open+to+2027+internships)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=abigailsadom1903&label=Profile%20Views&color=0366d6&style=flat-square)
 ![Open to Internships](https://img.shields.io/badge/Open%20to-2027%20Internships-0366d6?style=flat-square)
 
@@ -56,3 +58,13 @@ I'm a Software Engineering student at Universiti Malaysia Sabah (UMS), Faculty o
   | **Digital Portfolio** | Personal portfolio site featuring an "Engineering Lab" section documenting each project's architecture, data model, and test scenarios. Includes unit, component, and browser-level tests. | `React` `TypeScript` `Vite` `Vitest` `Playwright` |
   | **SchoolFam** | School communication app for parents, teachers, and administrators covering attendance, pickups, messaging, fees, and an AI-generated daily summary. Front-end only, no backend. | `React` `TypeScript` `Gemini API` |
   
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/abigailsadom1903/abigailsadom1903/output/github-snake.svg" alt="Snake animation eating the contribution graph" width="100%" />
+
+</div>
